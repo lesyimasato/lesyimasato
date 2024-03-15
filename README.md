@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![pixil-gif-drawing (1)](https://github.com/lesyimasato/lesyimasato/assets/99757921/a954f54c-d400-4674-b1bf-8a077a9b8b26)
+<!-- ![pixil-gif-drawing (1)](https://github.com/lesyimasato/lesyimasato/assets/99757921/a954f54c-d400-4674-b1bf-8a077a9b8b26)
 
 <!--
 **lesyimasato/lesyimasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
